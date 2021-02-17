@@ -1,4 +1,4 @@
 # Tribute-Tarkovsky
 Tribute to Andrei Tarkovsky
 
-http://theghostswithin.fr/Tribute-Tarkovsky/
+http://pascalmaumejean.eu/Tribute-Tarkovsky/
